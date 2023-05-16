@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.168.21.245"
+  DTS:DTSID="{F0916849-AC52-42E0-8DF1-23BAF7C35C7F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=192.168.21.245;Initial Catalog=DAKA_HANA;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-ProjetEtlHanaToSqlSever-{F0916849-AC52-42E0-8DF1-23BAF7C35C7F}192.168.21.245;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

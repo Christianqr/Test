@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="HanaETL.DESARROLLO_DAKA_USER"
+  DTS:DTSID="{E92A9062-6687-4D27-A44E-5930C264F5E0}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=DESARROLLO_DAKA_USER;Dsn=HanaETL;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJ9KdUMV50kWUczEJq/gQjgAAAAACAAAAAAADZgAAwAAAABAAAAA3NBpMrMHN9ehsYcrz1uutAAAAAASAAACgAAAAEAAAAOCEWLYbl3reglpDlvMTH2JwAAAAouubV7HXD/PqLR2JI9YQawcx9sd9WfZvkOdrxtKO+DmabSapwcqCVsR9h1rHkHsa6s9iYPJ3aD93nm9g6yUMtFb7FMie78opG907X5h2sFTTDtX47RmQND5VjaWXUZZVl5u99kWevw3oCAcYxGW50RQAAAD7ZsgEZxufN4YRRP8uyy8q4gevTQ==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
